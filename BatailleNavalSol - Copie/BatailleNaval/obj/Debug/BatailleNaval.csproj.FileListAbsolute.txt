@@ -1,6 +1,0 @@
-C:\Users\Quentin.PC-BUCHE\Desktop\FaNET\BatailleNavalSol\BatailleNaval\bin\Debug\BatailleNaval.exe.config
-C:\Users\Quentin.PC-BUCHE\Desktop\FaNET\BatailleNavalSol\BatailleNaval\bin\Debug\BatailleNaval.exe
-C:\Users\Quentin.PC-BUCHE\Desktop\FaNET\BatailleNavalSol\BatailleNaval\bin\Debug\BatailleNaval.pdb
-C:\Users\Quentin.PC-BUCHE\Desktop\FaNET\BatailleNavalSol\BatailleNaval\obj\Debug\BatailleNaval.csprojAssemblyReference.cache
-C:\Users\Quentin.PC-BUCHE\Desktop\FaNET\BatailleNavalSol\BatailleNaval\obj\Debug\BatailleNaval.exe
-C:\Users\Quentin.PC-BUCHE\Desktop\FaNET\BatailleNavalSol\BatailleNaval\obj\Debug\BatailleNaval.pdb
